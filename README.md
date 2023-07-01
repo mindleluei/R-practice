@@ -1,7 +1,8 @@
 # r_practice
 
-This repository contained R Data analyzing works.
+This repository contained R Data analyzing practice works.
 
-
-Especially, includes Visualization, Descriptive Statistics, algorithmic practice used in Data mining and Data Pre-processing.
+It includes various field of data.
+And, a lot of Data analyzing pratice
+Especially, includes Data Preprocessing, Descriptive Statistic, Algorithmic practice used in Data mining and Data Visualization.
 
